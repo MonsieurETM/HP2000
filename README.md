@@ -70,3 +70,5 @@ This simulation of the HP2000 Time Share Basic is from another era. There were s
 the computer was under attack almost every day by a very small minority. You never knew if a system crash was a bug, or if some student found
 a way to blow-up the system. The SYSOPS were heavy coffee drinkers. Today, I would not recommend you put this online, and have your router
 redirect Telnet users. Nope... No siree Bob!
+
+At my high school the county had the contributed programs in the LIB (library), and each school would have a GROUP, which the teachers could make execute-only and not source code readable, and then the normal student files were in the CAT (catalog). Student Aid's would get a separate account to store their work away from the class.
