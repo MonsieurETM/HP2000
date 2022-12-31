@@ -1,4 +1,4 @@
-#### HP2000 Time Shared BASIC (TSB) Access version
+#### HP2000-TSB Time Shared BASIC - Access version
 
 HP2000/Access, Date code 1812, which was the last release of OS in the HP2000 family of computer systems.
 A date code of 1812 is understood to translate to the 12th week of 1978.
